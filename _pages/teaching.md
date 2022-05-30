@@ -28,11 +28,11 @@ Graduate Course
 
 # Supervised PhD students
 
-  * Xueping Sun, 2022, Stanford GSB, Primary Advisor
-  * Nanna Fukushima, 2021, Stavanger University, Primary Advisor
-  * Roza Khoban, 2021, University of Zurich, Second Advisor
-  * Matti Mitrunen, 2019, University of Helsinki, Second Advisor
-  * Sirus Håfström Dehdari, 2018, Uppsala University, Primary Advisor
+  * Xueping Sun - Stanford GSB, 2022, Primary Advisor
+  * Nanna Fukushima - Stavanger University, 2021, Primary Advisor
+  * Roza Khoban - University of Zurich, 2021, Second Advisor
+  * Matti Mitrunen - University of Helsinki, 2019, Second Advisor
+  * Sirus Håfström Dehdari - Uppsala University, 2018, Primary Advisor
   * Nathaniel Lane – Monash University, 2017, Second Advisor
   * Audinga Baltrunaite – Bank of Italy, 2016, Primary Advisor
   * Mounir Karadja – Uppsala University, 2016, Primary Advisor
