@@ -28,6 +28,21 @@ Graduate Course
 
 # Supervised PhD students
 
-Xueping Sun, 2023
+  * Xueping Sun, 2022, Stanford GSB, Primary Advisor
+  * Nanna Fukushima, 2021, Stavanger University, Primary Advisor
+  * Roza Khoban, 2021, University of Zurich, Second Advisor
+  * Matti Mitrunen, 2019, University of Helsinki, Second Advisor
+  * Sirus Håfström Dehdari, 2018, Uppsala University, Primary Advisor
+  * Nathaniel Lane – Monash University, 2017, Second Advisor
+  * Audinga Baltrunaite – Bank of Italy, 2016, Primary Advisor
+  * Mounir Karadja – Uppsala University, 2016, Primary Advisor
+  * Thorsten Rogall – University of British Columbia, 2015, Second Advisor
+  * Pamela Campa – University of Calgary, 2013, Primary Advisor
+  * Ruixue Jia – UCSD School of International Relations, 2013, Second Advisor
+  * Erik Meyersson – Stockholm School of Economics, SITE, 2010, Second Advisor
+  * Olle Folke – Columbia University, School of International and Public Affairs (SIPA), 2010, Primary Advisor
+
+
+
 
 
