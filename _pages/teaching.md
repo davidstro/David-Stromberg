@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+&nbsp; 
 # Graduate Courses
 
 ## [Applied Empirical Economics](https://www.su.se/department-of-economics/education/courses-and-programmes/applied-empirical-economics-i-autumn-2021-1.517067?eventopenforinternationalstudents=true&notforcedreason=0&open-collapse-boxes=ccbd-courseinformation)
