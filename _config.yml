@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "David Strömberg"
   avatar           : "david s 3_small.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Professor of Economics, Stockholm university"
+  location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=PZoAEKUAAAAJ&hl=sv&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=PZoAEKUAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
