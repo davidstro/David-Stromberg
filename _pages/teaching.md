@@ -13,7 +13,7 @@ author_profile: true
 ## [Political Economics II](https://www.su.se/department-of-economics/education/courses-and-programmes/political-economics-ii-spring-2022-1.527237?eventopenforinternationalstudents=true&notforcedreason=0&q=&xpanded=)
 
 
-## [Political Economics II](https://www.su.se/department-of-economics/education/courses-and-programmes/political-economics-iii-spring-2022-1.529111?eventopenforinternationalstudents=true&notforcedreason=0&q=&xpanded=)
+## [Political Economics III](https://www.su.se/department-of-economics/education/courses-and-programmes/political-economics-iii-spring-2022-1.529111?eventopenforinternationalstudents=true&notforcedreason=0&q=&xpanded=)
 
 ## [Design-based research using observational data](https://www.su.se/department-of-economics/education/courses-and-programmes/design-based-research-using-observational-data-spring-2022-1.527241?eventopenforinternationalstudents=true&notforcedreason=0&q=&xpanded=)
 
