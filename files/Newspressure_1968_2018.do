@@ -1,0 +1,22 @@
+#d ;
+clear;
+clear matrix;
+set mem 500m;
+cd E:\c_old\David\Projects\Old\Eisensee\iMacros;
+
+use Vanderbilt_1968_June2022, replace;
+egen top3=sum(length*((storyno>0) & (storyno<=3) )), by(edate network);
+replace top3=. if (nlengthb>0) | strange2==1 | tlength<1000 | tlength>1900 ;
+keep  edate network top3;
+gen top3_new=top3;
+duplicates drop;
+egen t3=median(top3), by(edate);
+gen t3_m=t3/60;
+keep  edate t3_m;
+duplicates drop;
+format edate %d;
+rename edate date;
+label variable t3_m "Median time spent on top three news segments (minutes)";
+rename t3_m daily_news_pressure;
+sort date;
+save newspressure_1968_June2022, replace;
