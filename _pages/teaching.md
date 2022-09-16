@@ -20,20 +20,23 @@ author_profile: true
 &nbsp; 
 # Supervised PhD students
 
-  * Xueping Sun - Stanford GSB, 2022, Primary Advisor
-  * Nanna Fukushima - Stavanger University, 2021, Primary Advisor
-  * Roza Khoban - University of Zurich, 2021, Second Advisor
-  * Matti Mitrunen - University of Helsinki, 2019, Second Advisor
-  * Sirus Håfström Dehdari - Uppsala University, 2018, Primary Advisor
-  * Nathaniel Lane – Monash University, 2017, Second Advisor
-  * Audinga Baltrunaite – Bank of Italy, 2016, Primary Advisor
-  * Mounir Karadja – Uppsala University, 2016, Primary Advisor
-  * Thorsten Rogall – University of British Columbia, 2015, Second Advisor
-  * Pamela Campa – University of Calgary, 2013, Primary Advisor
-  * Ruixue Jia – UCSD School of International Relations, 2013, Second Advisor
-  * Erik Meyersson – Stockholm School of Economics, SITE, 2010, Second Advisor
-  * Olle Folke – Columbia University, School of International and Public Affairs (SIPA), 2010, Primary Advisor
-
+  * Xueping Sun - Stanford GSB, 2022<sup>1</sup>
+  * Nanna Fukushima - Stavanger University, 2021<sup>1</sup>
+  * Roza Khoban - University of Zurich, 2021<sup>2</sup>
+  * Matti Mitrunen - University of Helsinki, 2019<sup>2</sup>
+  * Sirus Håfström Dehdari - Uppsala University, 2018<sup>1</sup>
+  * Nathaniel Lane – Monash University, 2017<sup>2</sup>
+  * Audinga Baltrunaite – Bank of Italy, 2016<sup>1</sup>
+  * Mounir Karadja – Uppsala University, 2016<sup>1</sup>
+  * Thorsten Rogall – University of British Columbia, 2015<sup>2</sup>
+  * Pamela Campa – University of Calgary, 2013<sup>1</sup>
+  * Ruixue Jia – UCSD School of International Relations, 2013<sup>2</sup>
+  * Erik Meyersson – Stockholm School of Economics, SITE, 2010<sup>2</sup>
+  * Olle Folke – Columbia University, School of International and Public Affairs (SIPA), 2010<sup>1</sup>  
+  
+    
+<sup>1. Primary Advisor</sup>  
+<sup>2. Secondary Advisor</sup> 
 
 
 
